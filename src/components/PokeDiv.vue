@@ -50,6 +50,8 @@ export default {
   gap: 0.5rem;
   padding: 10px;
   text-align: center;
+  width: 50vh;
+  
 }
 
 img {
@@ -71,5 +73,8 @@ button {
 
 .blurred {
   filter: blur(5px) grayscale(100%);
+}
+h3{
+  margin: 0;
 }
 </style>
